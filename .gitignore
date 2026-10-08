@@ -1,0 +1,12 @@
+# Build output
+*.o
+elf-loader
+
+# Archives
+*.zip
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
